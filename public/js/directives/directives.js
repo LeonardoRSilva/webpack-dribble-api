@@ -1,4 +1,4 @@
-//var UserService = require("../services/UserService");
+
 module.exports = function(app){
 	app.directive('btCardNormal', function () {
         return {
